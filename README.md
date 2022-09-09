@@ -1,5 +1,3 @@
-# For that product
-
 ## Where to start?
 Import from assetID: ```local CorkAntiCheat = require(10863303253) ```
 
